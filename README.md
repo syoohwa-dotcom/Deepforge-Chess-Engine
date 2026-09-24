@@ -1,6 +1,6 @@
 # Deepforge Chess Engine
 
-Deepforge is a Windows UCI chess engine powered by the Talon 3072 NNUE Champion network. This private repository contains the ready-to-run engine package.
+Deepforge is a Windows UCI chess engine powered by the Talon 3072 NNUE Champion network. This public repository contains the ready-to-run engine package.
 
 ## Requirements
 
@@ -44,4 +44,3 @@ Run `Deepforge.exe`, type `uci`, and press Enter. A working installation will id
 ## Notes
 
 The engine does not need Python, CUDA, a GPU, or the training tools while playing. The Champion network must remain beside the executable unless `EvalFile` is changed to another valid path.
-

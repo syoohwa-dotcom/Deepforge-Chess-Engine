@@ -44,8 +44,3 @@ Run `Deepforge.exe`, type `uci`, and press Enter. A working installation will id
 ## Notes
 
 The engine does not need Python, CUDA, a GPU, or the training tools while playing. The Champion network must remain beside the executable unless `EvalFile` is changed to another valid path.
-
-## Source and testing
-
-- Complete source: https://github.com/syoohwa-dotcom/Deepforge-Source
-- DeepTest distributed testing: https://github.com/syoohwa-dotcom/DeepTest
